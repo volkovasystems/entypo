@@ -1,0 +1,24 @@
+{
+  "name": "entypo",
+  "version": "1.0.0",
+  "homepage": "https://github.com/volkovasystems/entypo",
+  "authors": [
+    "Richeve S. Bebedor <volkovasystems@gmail.com>"
+  ],
+  "description": "Manually updated repository with entypo.css and the required fonts.",
+  "main": "entypo.css",
+  "keywords": [
+    "entypo",
+    "css",
+    "fonts"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
