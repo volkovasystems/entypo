@@ -25,6 +25,8 @@
 	font-size: 2em;
 	font-weight: normal;
 	line-height: 0;
+    position: relative;
+    top: 3px;
 }
 
 .entypo-social {
@@ -32,6 +34,8 @@
 	font-size: 2em;
 	font-weight: normal;
 	line-height: 0;
+    position: relative;
+    top: 3px;
 }
 
 .entypo.phone:before{ content:'\1F4DE'; }
